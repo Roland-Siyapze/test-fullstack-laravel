@@ -4,7 +4,7 @@
 
 Ce test technique a pour objectif d'évaluer vos compétences en développement full stack avec Laravel 10, Livewire 3, Inertia.js (Vue), et les outils modernes associés.
 
-**Durée estimée :** 4-6 heures
+**Durée estimée :** 4 heures
 
 ## 📋 Contexte du Projet
 
